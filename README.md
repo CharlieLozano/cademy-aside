@@ -21,7 +21,7 @@
 
 [The a11y Project Checklist](https://www.a11yproject.com/checklist/) \
 [Contrast Checker](https://webaim.org/resources/contrastchecker/) \
-[Color Blindess Website Viewer](https://www.toptal.com/designers/colorfilter) \
+[Color Blindess Website Viewer](https://www.toptal.com/designers/colorfilter) 
 
 ### Documentation
 
